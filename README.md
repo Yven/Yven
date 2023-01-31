@@ -13,10 +13,10 @@
 <a href="https://github.com/yven" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
+<a href="https://steamcommunity.com/id/YvenChang" target="_blank">
 <img src=https://img.shields.io/badge/steam-%23274056.svg?&style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
+<a href="https://weibo.com/ThomasYunFan" target="_blank">
 <img src=https://img.shields.io/badge/weibo-%23d54443.svg?&style=for-the-badge&logo=sinaweibo&logoColor=white alt=weibo style="margin-bottom: 5px;" />
 </a>
 <img src=https://img.shields.io/badge/email-eXZlbmNoYW5nQDE2My5jb20=-%23d3d3d3.svg?&style=for-the-badge&logoColor=white alt=email style="margin-bottom: 5px;" />
