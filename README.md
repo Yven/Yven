@@ -7,6 +7,9 @@
   
 
 <div align="center">
+<a href="https://blog.yvenchang.cn" target="_blank">
+<img src=https://img.shields.io/badge/blog-%23d3d3d3.svg?&style=for-the-badge&logoColor=white alt=blog style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/yven" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,9 +18,6 @@
 </a>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/weibo-%23d54443.svg?&style=for-the-badge&logo=sinaweibo&logoColor=white alt=weibo style="margin-bottom: 5px;" />
-</a>
-<a href="https://blog.yvenchang.cn" target="_blank">
-<img src=https://img.shields.io/badge/blog-%23d3d3d3.svg?&style=for-the-badge&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>
 <img src=https://img.shields.io/badge/email-eXZlbmNoYW5nQDE2My5jb20=-%23d3d3d3.svg?&style=for-the-badge&logoColor=white alt=email style="margin-bottom: 5px;" />
 </div>
@@ -43,9 +43,9 @@
 <a href="https://www.thinkphp.cn/" target="_blank"><img style="margin: 10px" src="https://www.thinkphp.cn/Public/new/img/header_logo.png" alt="ThinkPHP" height="40" /></a>
 <a href="https://www.workerman.net/" target="_blank"><img style="margin: 10px" src="https://favicon.yandex.net/favicon/v2/workerman.net?size=32" alt="ThinkPHP" height="40" /></a>
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="40" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a> 
 <br/>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>  
