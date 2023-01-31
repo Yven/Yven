@@ -63,7 +63,7 @@
 
 
 ## Github Stats  
-<table align="center"><tr><td valign="center" width="50%">
+<table align="center" style="display: table;"><tr><td valign="center" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yven&show_icons=true&count_private=true&hide_border=true&style=flat-square&theme=material-palenight&hide=contribs" align="left" style="width: 100%" />
 
