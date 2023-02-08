@@ -19,6 +19,7 @@
 <a href="https://weibo.com/ThomasYunFan" target="_blank">
 <img src=https://img.shields.io/badge/weibo-%23d54443.svg?&style=for-the-badge&logo=sinaweibo&logoColor=white alt=weibo style="margin-bottom: 5px;" />
 </a>
+<br/>
 <img src=https://img.shields.io/badge/email-eXZlbmNoYW5nQDE2My5jb20=-%23d3d3d3.svg?&style=for-the-badge&logoColor=white alt=email style="margin-bottom: 5px;" />
 </div>
 
@@ -30,7 +31,7 @@
 
 - 🔨Work using: [![ThinkPHP](https://img.shields.io/badge/ThinkPHP-6.0-green)](https://www.kancloud.cn/manual/thinkphp6_0/1037479)
 
-- ⚙️ Play toy: [![Build Status](https://img.shields.io/badge/workerman-1.4.3-blue)](https://github.com/Yven/webman)
+- ⚙️ Play toy: [![Build Status](https://img.shields.io/badge/workerman-1.4.3-blue)](https://github.com/Yven/webman) [![Build Status](https://img.shields.io/badge/RustNotionAPI-0.0.1-blue)](https://github.com/Yven/RustNotinAPI)
 
 - 🌱 Learning: [![Learning](https://img.shields.io/badge/rust-1.25.1-blue)](https://github.com/Yven/learningRust)
 
