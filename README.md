@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hey, I'm Yven! A back-end developer.</div>  
+## <div align="center">Hey, I'm Yven!</div>  
   
 
 <div align="center">
