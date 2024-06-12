@@ -31,7 +31,7 @@
 
 - 🔨Work using: [![ThinkPHP](https://img.shields.io/badge/ThinkPHP-6.0-green)](https://www.kancloud.cn/manual/thinkphp6_0/1037479)
 
-- ⚙️ Play toy: [![Build Status](https://img.shields.io/badge/workerman-1.4.3-blue)](https://github.com/Yven/webman) [![Build Status](https://img.shields.io/badge/RustNotionAPI-0.2.0-blue)](https://github.com/Yven/RustNotionAPI)
+- ⚙️ Play toy: [![Build Status](https://img.shields.io/badge/workerman-1.4.3-blue)](https://github.com/Yven/webman) [![Build Status](https://img.shields.io/badge/notoin_blog-1.0-69cafd)](https://github.com/Yven/vigilant-octo-rotary-phone)
 
 - 🌱 Learning: [![Learning](https://img.shields.io/badge/rust-1.25.1-blue)](https://github.com/Yven/learningRust)
 
