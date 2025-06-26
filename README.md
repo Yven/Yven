@@ -28,7 +28,7 @@
 
 - 🔨Work using: [![Gin](https://img.shields.io/badge/Gin-1.10-blue)](https://github.com/gin-gonic/gin) [![ThinkPHP](https://img.shields.io/badge/ThinkPHP-6.0-green)](https://www.kancloud.cn/manual/thinkphp6_0/1037479)
 
-- ⚙️ Play toy: [![Build Status](https://img.shields.io/badge/blog-v0.1.0-purple)](https://github.com/Yven/notion_blog) [![Build Status](https://img.shields.io/badge/notoin_blog-v0.0.3-69cafd)](https://github.com/Yven/notion_blog) [![Build Status](https://img.shields.io/badge/openai_php_client-v1.0.1-white)](https://github.com/Yven/openai-php-client)
+- ⚙️ Play toy: [![Build Status](https://img.shields.io/badge/blog-v0.1.0-purple)](https://github.com/Yven/newblog) [![Build Status](https://img.shields.io/badge/notoin_blog-v0.0.3-69cafd)](https://github.com/Yven/notion_blog) [![Build Status](https://img.shields.io/badge/openai_php_client-v1.0.1-white)](https://github.com/Yven/openai-php-client)
 
 - 🌱 Learning: STM32、3D Printing
 
